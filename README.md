@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Custoemr Database application
 - 📫 How to reach me ghanemxghanem@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghanem025)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ghanem025&count_private=true&show_icons=true&include_all_commits=true&theme=merko)](https://github.com/zainaraza43/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghanem025&layout=compact&theme=merko)](https://github.com/zainaraza43/github-readme-stats)
 
