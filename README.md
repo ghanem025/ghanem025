@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ghanem 
 - 👀 I’m interested in Developing Applications to make life easier
 - 🌱 I’m currently learning Software Enginnering at the University of Windsor
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Custoemr Database application
 - 📫 How to reach me ghanemxghanem@gmail.com
 
 <!---
