@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Developing Applications to make life easier
 - 🌱 I’m currently learning Software Enginnering at the University of Windsor
-- 💞️ I’m looking to collaborate on Customer Database application
+- 🔭 I’m currently working on many things including Android development (Kotlin) and back-end Development (Spring boot, Django, postgreSQL)
 - 📫 How to reach me ghanemxghanem@gmail.com
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ghanem025&count_private=true&show_icons=true&include_all_commits=true&theme=merko)](https://github.com/zainaraza43/github-readme-stats)
