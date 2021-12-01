@@ -9,10 +9,6 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ghanem025&count_private=true&show_icons=true&theme=tokyonight)
 
-![image](https://user-images.githubusercontent.com/40302667/144190868-c5fe0b81-9233-4d59-9d12-44a37af57b99.png)
-
-
-
 
 
 
