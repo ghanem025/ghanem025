@@ -6,9 +6,13 @@
 - 🔭 I’m currently working on many things including Android development (Kotlin) and back-end Development (Spring boot, Django, postgreSQL)
 - 📫 How to reach me ghanemxghanem@gmail.com
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ghanem025&count_private=true&show_icons=true&include_all_commits=true&theme=merko)](https://github.com/ghanem025/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghanem025&layout=compact&theme=merko)](https://github.com/ghanem025/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ghanem025&count_private=true&show_icons=true&theme=tokyonight)
+
+![image](https://user-images.githubusercontent.com/40302667/144190868-c5fe0b81-9233-4d59-9d12-44a37af57b99.png)
+
+
+
 
 
 
