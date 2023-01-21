@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Developing Applications to make life easier
 - 🌱 I’m currently learning Software Enginnering at the University of Windsor
-- 🔭 I’m currently working on many things including python development and back-end Development (Sanic, Django, postgreSQL)
+- 🔭 I’m currently working on many things including python development and back-end Development (Flask, Sanic, Django, postgreSQL)
 - 📫 How to reach me ghanemxghanem@gmail.com
 
 
